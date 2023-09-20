@@ -1,0 +1,18 @@
+package Herencia;
+
+public class Forma {
+	private String color;
+	private boolean relleno;
+	
+	public Forma(String color) {
+		super();
+		this.color = color;
+	}
+	
+	public void mostrarColor() {
+		System.out.println(this.color);
+	}
+	
+	
+
+}

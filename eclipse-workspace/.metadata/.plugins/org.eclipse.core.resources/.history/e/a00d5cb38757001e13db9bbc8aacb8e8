@@ -1,0 +1,18 @@
+package clases_abstractas;
+
+import java.lang.Object.Empleado;
+
+public class EmpleadoAsalariado extends Empleado {
+
+	public EmpleadoAsalariado(String nombreString, int edad, double salarioBase) {
+		super(nombreString, edad, salarioBase);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public double calcularSalario() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

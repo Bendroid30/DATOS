@@ -1,0 +1,13 @@
+package Herencia;
+
+import java.lang.Object;
+
+public class Círculo extends Forma {
+	private double radio;
+	
+	public Círculo(String color) {
+		super(color);
+		// TODO Auto-generated constructor stub
+	}
+
+}

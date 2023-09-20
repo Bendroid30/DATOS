@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package Herencia;
+
+import java.lang.Object.Forma;
+
+/**
+ * 
+ */
+public class Círculo extends Forma {
+	super()
+}

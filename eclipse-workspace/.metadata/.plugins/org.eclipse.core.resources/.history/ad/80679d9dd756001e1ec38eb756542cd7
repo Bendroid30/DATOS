@@ -1,0 +1,12 @@
+package Herencia;
+
+import java.lang.Object.Forma;
+
+public class Rectangulo extends Forma {
+
+	public Rectangulo(String color) {
+		super(color);
+		// TODO Auto-generated constructor stub
+	}
+
+}
